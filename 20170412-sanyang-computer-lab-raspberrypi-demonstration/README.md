@@ -4,7 +4,7 @@ April 12th 2017
 
 At the reopened Computer Lab of the Sanyang Lower Basic School
 
-Status of this document: *DRAFT*
+Status of this document: *DRAFT - INCOMPLETE*
 
 ## The demonstration
 
