@@ -3,7 +3,9 @@
 The press kit repository contains information clippings (articles) and media files (photos) for publication or to just be informed about our events, plans and achievements
 
 
-## Events
+## Contents
+
+### Events
 
 - 2017-04-12 [Demonstration of the Raspberry Pi computer at the Sanyang Lower Basic School Computer Lab](20170412-sanyang-computer-lab-raspberrypi-demonstration)
 
