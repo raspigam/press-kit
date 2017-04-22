@@ -6,14 +6,14 @@ At the reopened Computer Lab of the Sanyang Lower Basic School
 
 Status of this document: *DRAFT - INCOMPLETE*
 
-## The demonstration
+## Raspberry Pi demonstration event
 
 Wednesday April 12th 2017 we demonstrated the use of the Raspberry Pi computer in the reopened Computer Lab of the Sanyang
 Lower Basic School. To an audience of students, educators, experts and officials we expressed our belief in the
 opportunities this device opens up for the Gambia. The event was organised and led by an ad hoc assembled team,
 including Head Master mr. Ndong, IT teacher mr. Jallow and software developer Rob van den Bogaard-Braaf.
 
-## The short-term plan
+## Next steps
 
 The team continues to work on a pilot series of Computer Lab lessons, aiming to spread knowledge of the Raspberry Pi
 computer and its ecosystem (community, resources) to senior students initially, in preparation of the project's growth.
