@@ -25,6 +25,8 @@ have for their careers.
 
 We aim to scale-up to more schools as soon as we see the concept is working and sustainable.
 
+The project is in its initial phase.
+
 ![A Sanyang Lower Basic School teacher is being introduced to programming with Sratch on a Raspberry Pi computer in a 3D printed case with touch-screen - photo by Rob van den Bogaard-Braaf](media/20170411_135732_web.jpg)
 *A Sanyang Lower Basic School teacher is being introduced to programming with Scratch on a Raspberry Pi computer in a 3D printed case with touch-screen* - photo by Rob van den Bogaard-Braaf
 
