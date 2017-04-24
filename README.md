@@ -32,8 +32,9 @@ We aim to scale-up to more schools as soon as we see the concept is working and 
 
 - Build documentation and press kit *(Netherlands)*
 - Discuss details on initial courses with the school *(Gambia)*
+- Collect or author education content and lesson plans *(Gambia and Netherlands)*
 - Start initial courses to build knowledge momentum *(Gambia)*
-- Investigate funding options for the pilot/showcase lab; how should we collect donations? *(Netherlands)*
+- Investigate funding options for the pilot/showcase lab; how should we collect donations, can we join a program or project? *(Netherlands and Gambia)*
 - Find the best internet provider and plan for the Sanyang area (current connectivity of the Computer Lab is quite unreliable) *(Gambia)*
 - Find prospective partner schools for exchange and collaboration *(Netherlands)*
 - Investigate cost-reduction opportunities (e.g. recycle screens/tv sets available, investigate minimal UPS setup, some cables are cheaper in EU, some in The Gambia) *(Gambia and Netherlands)*
