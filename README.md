@@ -23,5 +23,7 @@ infrastructural), and introduce students - the children - to computing as well a
 for international communication, to inspire and help them work out ideas they might
 have for their careers.
 
+We aim to scale-up the concept to more schools as soon as we see the concept is working and sustainable.
+
 ![A Sanyang Lower Basic School teacher is being introduced to programming with Sratch on a Raspberry Pi computer in a 3D printed case with touch-screen - photo by Rob van den Bogaard-Braaf](media/20170411_135732_web.jpg)
 *A Sanyang Lower Basic School teacher is being introduced to programming with Scratch on a Raspberry Pi computer in a 3D printed case with touch-screen* - photo by Rob van den Bogaard-Braaf
