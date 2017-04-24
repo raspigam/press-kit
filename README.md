@@ -11,6 +11,15 @@ The press kit repository contains information clippings (articles) and media fil
 
 - 2017-04-12 [Demonstration of the Raspberry Pi computer at the Sanyang Lower Basic School Computer Lab](20170412-sanyang-computer-lab-raspberrypi-demonstration)
 
+## Current next steps
+
+- Discuss details on initial courses with the school *(Gambia)*
+- Start initial courses to build knowledge momentum *(Gambia)*
+- Investigate funding options for the pilot/showcase lab; how should we collect donations? *(Netherlands)*
+- Find the best internet provider and plan for the Sanyang area (current connectivity of the Computer Lab is quite unreliable) *(Gambia)*
+- Find prospective partner schools for exchange and collaboration *(Netherlands)*
+- Investigate cost-reduction opportunities (e.g. recycle screens/tv sets available, investigate minimal UPS setup, some cables are cheaper in EU, some in The Gambia) *(Gambia and Netherlands)*
+
 ## About the project
 
 We would like to provide IT and communication lessons for pupils of Sanyang Lower Basic School,
