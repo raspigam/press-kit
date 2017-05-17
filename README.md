@@ -10,6 +10,7 @@ The press kit repository contains information clippings (articles) and media fil
 ### Events
 
 - 2017-04-12 [Demonstration of the Raspberry Pi computer at the Sanyang Lower Basic School Computer Lab](20170412-sanyang-computer-lab-raspberrypi-demonstration)
+- 2017-05-03 [Start of lesson series for senior students](20170503-start-of-lesson-series)
 
 ## About the project
 
@@ -32,11 +33,12 @@ The project is in its initial phase.
 
 ## Current next steps
 
-- Build documentation and press kit *(Netherlands)*
-- Discuss details on initial courses with the school *(Gambia)*
-- Collect or author education content and lesson plans *(Gambia and Netherlands)*
-- Start initial courses to build knowledge momentum *(Gambia)*
-- Investigate funding options for the pilot/showcase lab; how should we collect donations, can we join a program or project? *(Netherlands and Gambia)*
-- Find the best internet provider and plan for the Sanyang area (current connectivity of the Computer Lab is quite unreliable) *(Gambia)*
-- Find prospective partner schools for exchange and collaboration *(Netherlands)*
-- Investigate cost-reduction opportunities (e.g. recycle screens/tv sets available, investigate minimal UPS setup, some cables are cheaper in EU, some in The Gambia) *(Gambia and Netherlands)*
+- Build documentation and press kit *(Netherlands)* ONGOING
+- Discuss details on initial courses with the school *(Gambia)* DONE
+- Collect or author education content and lesson plans *(Gambia and Netherlands)* IN PROGRESS
+- Start initial courses to build knowledge momentum *(Gambia)* DONE
+- Investigate funding options for the pilot/showcase lab; how should we collect donations, can we join a program or project? *(Netherlands and Gambia)* DONE
+- Find the best internet provider and plan for the Sanyang area (current connectivity of the Computer Lab is quite unreliable) *(Gambia)* IN POGRESS
+- Find prospective partner schools for exchange and collaboration *(Netherlands)* STARTING
+- Investigate cost-reduction opportunities (e.g. recycle screens/tv sets available, investigate minimal UPS setup, some cables are cheaper in EU, some in The Gambia) *(Gambia and Netherlands)* DONE FIRST ITERATION
+- Prepare project proposal to authorities *(Gambia and Netherlands)* IN PROGRESS
