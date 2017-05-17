@@ -1,7 +1,5 @@
 # Press Kit
 
-*This document keeps being refined and added to as we go.*
-
 The press kit repository contains information clippings (articles) and media files (photos) for publication or to just be informed about our events, plans and achievements.
 
 
