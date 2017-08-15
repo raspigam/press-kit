@@ -9,7 +9,7 @@ The press kit repository contains information clippings (articles) and media fil
 
 - 2017-04-12 [Demonstration of the Raspberry Pi computer at the Sanyang Lower Basic School Computer Lab](20170412-sanyang-computer-lab-raspberrypi-demonstration)
 - 2017-05-03 [Start of lesson series for senior students](20170503-start-of-lesson-series)
-- 2017-06-11 [Start of online Raspberry Pi Foundation course Teaching Programming in Primary Schools](20170611-start-rpf-course)
+- 2017-06-11 [Start of online Raspberry Pi Foundation course Teaching Programming in Primary Schools](20170611-start-of-rpf-course)
 
 ## About the project
 
